@@ -1,2 +1,3 @@
 # simple-keylogger
-İt can be detected by MS Defense so it's not useful .
+It's just for fun.
+It can be detected by Windows Defener so it's not handy.
