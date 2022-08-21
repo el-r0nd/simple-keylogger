@@ -1,3 +1,3 @@
 # simple-keylogger
 It's just for fun.
-It can be detected by Windows Defener so it's not handy.
+It can be detected by Windows Defender so it's not handy.
